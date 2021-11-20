@@ -9,7 +9,7 @@
 ```sh
 clone the repository
 run npm install or yarn install
-if do not have expo cli run npm install --global expo-cli
+if you don't have cli expo run npm install --global expo-cli
 ```
 
 ## Run
