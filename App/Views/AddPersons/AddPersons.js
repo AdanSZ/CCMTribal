@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, View, Text, TextInput} from 'react-native';
+import { Text } from 'react-native';
 import Container from '../../Components/Container';
 import PersonForm from '../../Forms/PersonForm';
 import {saveBusinessPerson, deleteBusinessPerson, editBusinessPerson} from '../../Service/BusinessService';

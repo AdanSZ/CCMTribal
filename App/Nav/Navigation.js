@@ -6,6 +6,7 @@ import AddBusiness from '../Views/AddBusiness/AddBusiness';
 import ListBusiness from '../Views/ListBusiness/ListBusiness';
 import Business from '../Views/Business/Business';
 import AddPersons from '../Views/AddPersons/AddPersons';
+
 const Stack = createNativeStackNavigator();
 
 const headerStyle = {
